@@ -1,12 +1,12 @@
 ### Hi there👋
 <h1 align="center">Hi 👋, I'm Vishakha Deshmukh</h1>
-<h3 align="center">A passionate frontend developer from India. I am lookin for a job</h3>
+<h3 align="center">A passionate Java fullstack developer from India. I am lookin for a job opportunity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakhadeshmukh12&label=Profile%20views&color=0e75b6&style=flat" alt="vishakhadeshmukh12" /> </p>
 
-- 🔭 I’m currently working on **react project**
+- 🔭 I’m currently working on **Java Fullstack Project**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://vishakhadeshmukh12.github.io/Portfolio/](https://vishakhadeshmukh12.github.io/Portfolio/)
 
